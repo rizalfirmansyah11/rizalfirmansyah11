@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MasRizal</h1>
 <h3 align="center">Saya akan pergi ke midlane</h3>
 
-<img align="right" alt="coding" width="400" src="![coding](https://github.com/rizalfirmansyah11/rizalfirmansyah11/assets/140318211/cb5e7a86-ca1c-4030-856e-08f57c2ce8e3)">
+<img align="right" alt="coding.png" width="400" src="![coding](https://github.com/rizalfirmansyah11/rizalfirmansyah11/assets/140318211/cb5e7a86-ca1c-4030-856e-08f57c2ce8e3)">
 >
 
 - 🌱 **Mieayam lovers ♡**
