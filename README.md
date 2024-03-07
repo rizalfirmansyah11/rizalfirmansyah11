@@ -2,7 +2,6 @@
 <h3 align="center">Saya akan pergi ke midlane</h3>
 
 
-<img align="right"  alt="giphy.webp" width="250px" src="giphy.webp" border="200px">
 
 
 - 🌱 **Mieayam lovers ♡**
