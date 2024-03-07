@@ -2,7 +2,7 @@
 <h3 align="center">Saya akan pergi ke midlane</h3>
 
 
-<img align="right"  alt="giphy.webp" width="300px" src="giphy.webp" border="200px">
+<img align="right"  alt="giphy.webp" width="250px" src="giphy.webp" border="200px">
 
 
 - 🌱 **Mieayam lovers ♡**
@@ -14,6 +14,8 @@
 - 💬 **Menyala Abangkuhh🔥🔥**
 
 - ⚡ Fun fact **-1 lovers**
+
+<img align="right"  alt="giphy.gif" width="400px" src="giphy.gif" border="200px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
