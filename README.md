@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamas</h1>
 <h3 align="center">Saya akan pergi ke midlane</h3>
 
-<img align="right" alt="coding.gif" width="400" src="coding.gif">
+<img align="right" alt="giphy.webp" width="400" src="giphy.webp">
 
 
 - 🌱 **Mieayam lovers ♡**
