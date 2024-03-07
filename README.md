@@ -12,7 +12,7 @@
 
 - 💬 **Menyala Abangkuhh🔥🔥**
 
-- ⚡ Fun fact **-1 lovers**
+- ⚡ **Fun fact** **: -1 lovers**
 
 <img align="right"  alt="giphy.gif" width="400px" src="giphy.gif" border="200px">
 
