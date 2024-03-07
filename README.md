@@ -13,9 +13,9 @@
 - 💬 **Menyala Abangkuhh🔥🔥**
 
 - ⚡ **Fun fact** **: -1 lovers**
-
-<img align="right"  alt="giphy.gif" width="400px" src="giphy.gif" border="200px">
-
+<div class="frame-image">
+<img align="right"  alt="dino.gif" border="1000px" width="400px" src="dino.gif" >
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rizlfrmansyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizlfrmansyh" height="30" width="40" /></a>
