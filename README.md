@@ -1,3 +1,4 @@
+<img align="center"  alt="banner.jpeg" border="1000px" width="400px" src="banner.jpeg" >
 <h1 align="center">Hi 👋, I'm Mamas</h1>
 <h3 align="center">Saya akan pergi ke midlane</h3>
 
