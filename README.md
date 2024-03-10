@@ -13,7 +13,7 @@
 
 - 💬 **Menyala Abangkuhh🔥🔥**
 
-- ⚡ **Fun fact** **: -1 lovers**
+- ⚡ **"Always appreciate the little things."**
 <div class="frame-image">
 <img align="right"  alt="dino.gif" border="1000px" width="400px" src="dino.gif" >
 </div>
