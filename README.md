@@ -1,17 +1,12 @@
 <img align="center"  alt="banner.jpeg" width="1000px" src="banner.jpeg" >
 <h1 align="center">Hi 👋, I'm Mamas</h1>
-<h3 align="center">Saya akan pergi ke midlane</h3>
 
 
 
 
-- 🌱 **Mieayam lovers ♡**
+- 🌱 **Mieayam lovers **
 
 - 🎵 **Dandelions**
-
-- 🤝 **Global No.1 Barats 🦖**
-
-- 💬 **Menyala Abangkuhh🔥🔥**
 
 - ⚡ **"Always appreciate the little things."**
 <div class="frame-image">
