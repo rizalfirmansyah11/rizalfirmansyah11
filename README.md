@@ -1,10 +1,7 @@
 <img align="center"  alt="banner.jpeg" width="1000px" src="banner.jpeg" >
-<h1 align="center">Hi 👋, I'm Mamas</h1>
+<h1 align="center">Hi 👋</h1>
 
 
-
-
-- 🌱 **Mieayam lovers **
 
 - 🎵 **Dandelions**
 
