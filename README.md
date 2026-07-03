@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋</h1>
 
 
-
-- 🎵 **Dandelions**
-
 - ⚡ **"Always appreciate the little things."**
 <div class="frame-image">
 <img align="right"  alt="dino.gif" border="1000px" width="400px" src="dino.gif" >
